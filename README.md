@@ -1,1 +1,1 @@
-Bu mening leetcodedan ishlayotgan masalarimni git hupga joyladim.
+MEN ushbu bo`limga LEETCODEdan ishlagan masalalarni joylayman
